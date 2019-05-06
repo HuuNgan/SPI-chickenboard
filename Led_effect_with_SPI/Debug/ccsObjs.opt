@@ -1,0 +1,1 @@
+"./main.obj" "./Basic_Config/Basic_config.obj" "./HC595/HC595.obj" "./SPI/SPI.obj" "../lnk_msp430g2553.cmd" -llibc.a 
